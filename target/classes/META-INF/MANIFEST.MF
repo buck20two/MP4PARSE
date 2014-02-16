@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Class-Path: dependency-jars/isoparser-1.0-RC-27.jar dependency-jars/as
+ pectjrt-1.7.3.jar
+Build-Jdk: 1.7.0_21
+Built-By: cbuckner
+Created-By: Maven Integration for Eclipse
+Main-Class: runtime.App
+
